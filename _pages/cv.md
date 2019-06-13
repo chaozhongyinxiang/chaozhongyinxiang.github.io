@@ -23,7 +23,7 @@ redirect_from:
 
 * 2009 ~ 2014: Research Assistant
   * CS@UC, BMI@CCHMC
-  * Mentors: [Dr.Raj Bhatnagar](https://eecs.ceas.uc.edu/~rbhatnag/), [Dr. Bruce Aronow](https://www.cincinnatichildrens.org/bio/a/bruce-aronow) and [Dr. Anil Jegga](https://www.cincinnatichildrens.org/research/divisions/b/bmi/labs/jegga)
+  * Mentors: [Dr. Raj Bhatnagar](https://eecs.ceas.uc.edu/~rbhatnag/), [Dr. Bruce Aronow](https://www.cincinnatichildrens.org/bio/a/bruce-aronow) and [Dr. Anil Jegga](https://www.cincinnatichildrens.org/research/divisions/b/bmi/labs/jegga)
 
 ### Skills
 
