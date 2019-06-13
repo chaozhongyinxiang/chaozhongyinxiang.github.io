@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Clinical Genomic Diagnostics
+======
 
-{% include base_path %}
+- **Wu C**, Devkota B, et al., "Rapid and accurate interpretation of clinical exomes using Phenoxome: a computational phenotype-driven approach", *European Journal of Human Genetics* 27(4), 612. [Read more](https://www.nature.com/articles/s41431-018-0328-7)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Evans P, **WU C**, et al., "Genetic variant pathogenicity prediction trained using disease specific clinical sequencing datasets", *Genome Research* July 2019. [Read more](https://www.biorxiv.org/content/biorxiv/early/2018/05/30/334235.full.pdf)
+
