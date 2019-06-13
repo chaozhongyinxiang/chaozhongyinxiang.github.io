@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-###Clinical Genomic Diagnostics###
+### Clinical Genomic Diagnostics
 
 - **Wu C**, Devkota B, *et al.*, "Rapid and accurate interpretation of clinical exomes using Phenoxome: a computational phenotype-driven approach", *European Journal of Human Genetics* 27(4), 612. [Read more](https://www.nature.com/articles/s41431-018-0328-7)
 
