@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-*** Education
+### Education
 
 * B.S. in Electronic & Electrical Engineering, Beihang University
 * M.Sc. in Electronic Engineering, University of York
 * Ph.D in Computer Science, University of Cincinnati
 
-*** Work and Research Experience
+### Work and Research Experience
 
 * 2014 ~ now: Senior Bioinformatics Scientist
   * Division of Genomic Diagnostics
