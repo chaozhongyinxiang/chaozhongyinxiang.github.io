@@ -40,4 +40,4 @@ Find a selected list of my publications [here](https://chaozhongyinxiang.github.
 
 * CHOP Discretionary Award
 * ISCB, regional student group
-* Invited reviews for multiple journals and conferences, including *Nucleic Acids Research*, *International Conference on Intelligent Computing*, and *Journal of Cellular Physiology*
+* Invited reviewer for multiple journals and conferences, including *Nucleic Acids Research*, *International Conference on Intelligent Computing*, and *Journal of Cellular Physiology*
