@@ -25,24 +25,19 @@ redirect_from:
   * CS@UC, BMI@CCHMC
   * Mentors: [Dr.Raj Bhatnagar](https://eecs.ceas.uc.edu/~rbhatnag/), [Dr. Bruce Aronow](https://www.cincinnatichildrens.org/bio/a/bruce-aronow) and [Dr. Anil Jegga](https://www.cincinnatichildrens.org/research/divisions/b/bmi/labs/jegga)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### Skills
+
+* Programming: Java, Python
+* Algorithms
+* Data curation and database management
+* Web application development
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+### Publicatoins
+
+Find a selected list of my publications [here](https://chaozhongyinxiang.github.io/publications/)
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Service and leadership
+
+* CHOP Discretionary Award
+* ISCB, regional student group
+* Invited reviews for multiple journals and conferences, including *Nucleic Acids Research*, *International Conference on Intelligent Computing*, and *Journal of Cellular Physiology*
