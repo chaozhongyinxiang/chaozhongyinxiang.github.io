@@ -11,9 +11,9 @@ redirect_from:
 
 ### Education
 
-* B.S. in Electronic & Electrical Engineering, Beihang University
-* M.Sc. in Electronic Engineering, University of York
-* Ph.D in Computer Science, University of Cincinnati
+* Ph.D in Computer Science, University of Cincinnati, USA
+* M.Sc. in Electronic Engineering, University of York, UK
+* B.S. in Electronic & Electrical Engineering, Beihang University, China
 
 ### Work and Research Experience
 
@@ -28,13 +28,13 @@ redirect_from:
 ### Skills
 
 * Programming: Java, Python
-* Algorithms
+* Profound understanding in machine learning algorithms and genetics
 * Data curation and database management
 * Web application development
   
 ### Publicatoins
 
-Find a selected list of my publications [here](https://chaozhongyinxiang.github.io/publications/)
+Find a select list of my publications [here](https://chaozhongyinxiang.github.io/publications/).
   
 ### Service and leadership
 
