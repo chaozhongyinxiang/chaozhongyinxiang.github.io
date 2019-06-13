@@ -21,7 +21,7 @@ author_profile: true
 
 ### Disease Gene Identification & Gene Regulation
 
-- Zhu C<sup>*</sup>, **Wu C**<sup>*</sup>, Aronow B and Jegga A, "Computational approaches for human disease gene prediction and ranking", *Systems Analysis of Human Multigene Disorders*, 69-84, 2014. [Read more](https://link.springer.com/chapter/10.1007/978-1-4614-8778-4_4)
+- Zhu C, **Wu C**, Aronow B and Jegga A, "Computational approaches for human disease gene prediction and ranking", *Systems Analysis of Human Multigene Disorders*, 69-84, 2014. [Read more](https://link.springer.com/chapter/10.1007/978-1-4614-8778-4_4)
 
 - **Wu C**, Zhu C and Jegga A, "Integrative literature and data mining to rank disease candidate genes", *Biomedical Literature Mining*, 207-226, 2014.
 
