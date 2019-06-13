@@ -5,8 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-### The Association for Molecular Pathology Global Congress
-<span style="color:gray">May 2019, HK China</span>
+{% include base_path %}
 
-Presented a machine learning-based classifier to identify sequencing artifacts from *bona fide* variants from NGS data in pediatric tumors 
 
+{% for post in site.talks %}
+  {% include archive-single.html %}
+{% endfor %}
