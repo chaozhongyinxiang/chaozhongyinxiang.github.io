@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,32 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+*** Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* B.S. in Electronic & Electrical Engineering, Beihang University
+* M.Sc. in Electronic Engineering, University of York
+* Ph.D in Computer Science, University of Cincinnati
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*** Work and Research Experience
+
+* 2014 ~ now: Senior Bioinformatics Scientist
+  * Division of Genomic Diagnostics
+  * Children's Hospital of Philadelphia
+
+* 2009 ~ 2014: Research Assistant
+  * CS@UC, BMI@CCHMC
+  * Mentors: [Dr.Raj Bhatnagar](https://eecs.ceas.uc.edu/~rbhatnag/), [Dr. Bruce Aronow](https://www.cincinnatichildrens.org/bio/a/bruce-aronow) and [Dr. Anil Jegga](https://www.cincinnatichildrens.org/research/divisions/b/bmi/labs/jegga)
 
 Publications
 ======
