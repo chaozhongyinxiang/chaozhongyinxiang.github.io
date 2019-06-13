@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-I have always wanted to be a theoretical physicist since I was a child, and I would not have believed I have become a computer scientist. However, Looking up into the starry sky at night and starring at the galaxy in awe remains one of my favorite hobbies.
+I have always wanted to be a theoretical physicist since I was a child, and I would not have believed I have become a computer scientist. However, Looking up into the sky at night and starring at those amazing stars in awe remains one of my favorite things to do.
 
 I take huge pride in my hometown Beijing, for I was born and raised there. In my spare time, I look for fun things to do in and around Philadelphia. I enjoy [various trails](https://www.alltrails.com/parks/us/pennsylvania/fairmount-park) in Philly, exercising and would like to compete in another triathlon event soon. 
 
