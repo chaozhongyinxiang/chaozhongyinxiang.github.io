@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: "https://chaozhongyinxiang.github.io/publications/"
 
   - title: "Talks"
-    url: /talks/     
+    url: "https://chaozhongyinxiang.github.io/talks/"     
     
   - title: "Porjects"
-    url: /portfolio/
+    url: "https://chaozhongyinxiang.github.io/portfolio/"
     
   - title: "CV"
-    url: /cv/
+    url: "https://chaozhongyinxiang.github.io/cv/"
     
   - title: "Potpourri"
-    url: /markdown/
+    url: "https://chaozhongyinxiang.github.io/markdown/"
