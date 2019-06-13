@@ -1,11 +1,12 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
 
 I have always wanted to be a theoretical physicist since I was a child, and I would not have believed I have become a computer scientist. However, Looking up into the sky at night and starring at those amazing stars in awe remains one of my favorite things to do.
 
