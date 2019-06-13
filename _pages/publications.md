@@ -15,7 +15,7 @@ author_profile: true
 
 ### Non-coding RNAs
 
-- **Wu C**, Zhao X, Clark P, "Computational methods for microRNA and PIWI-interacting RNA gene discovery and functional predictions", *AGO_driven Non-Coding RNAs*, 35-53, 2019. [Read more](https://www.sciencedirect.com/science/article/pii/B9780128156698000026)
+- **Wu C**, Zhao X, Clark P, "Computational methods for microRNA and PIWI-interacting RNA gene discovery and functional predictions", *AGO-driven Non-Coding RNAs*, 35-53, 2019. [Read more](https://www.sciencedirect.com/science/article/pii/B9780128156698000026)
 
 - **Wu C**, Bardes E, Jegga A and Aronow B, "ToppMir: an analysis workbench for ranking functionally significant miRs and mRNA targets based on biological associations", *Nucleic Acids Research*, 2014. [Read more](https://academic.oup.com/nar/article/42/W1/W107/2437383)
 
