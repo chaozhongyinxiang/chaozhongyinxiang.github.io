@@ -39,5 +39,6 @@ Find a select list of my publications [here](https://chaozhongyinxiang.github.io
 ### Service and leadership
 
 * CHOP Discretionary Award
-* ISCB, regional student group
+* Vice president at ISCB, regional student group
 * Invited reviewer for multiple journals and conferences, including *Nucleic Acids Research*, *International Conference on Intelligent Computing*, and *Journal of Cellular Physiology*
+* IEEE, AMP and ASHG member
