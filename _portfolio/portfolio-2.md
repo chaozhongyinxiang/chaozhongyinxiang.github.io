@@ -1,6 +1,6 @@
 ---
 title: "Drug repurposing through network clustering"
-excerpt: "Identifying potential drug repurposing candidates by community detection on heterogeneous networks<br/><br/><img src='/images/pca.png'>"
+excerpt: "Identifying potential drug repurposing candidates by community detection on heterogeneous networks.<br/><br/><img src='/images/drug_rep.png'>"
 collection: portfolio
 ---
 
