@@ -1,6 +1,6 @@
 ---
 title: "Using machine learning to facilitate variant classification in pediatric cancers"
-excerpt: "A computational model to distinguish sequencing artifacts from *bona fide* variants in a clinical setting  <br/><img src='/images/aiqc_pca.png'>"
+excerpt: "A computational classifier to distinguish sequencing artifacts from *bona fide* variants from next-generation sequencing data in pediatric tumors <br/><img src='/images/aiqc_pca.png'>"
 collection: portfolio
 ---
 
