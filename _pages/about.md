@@ -15,4 +15,4 @@ I received my Ph.D from the [Computer Science Department of University of Cincin
 
 I am interested in developing applications of machine learning in biomedical informatics, with a particular focus on genetics and genomics. Previously, I have also worked on problems such as gene-network mining, drug repurposing and ncRNA analysis.
 
-You can find some of my previous works and ongoing projects on this site. You may also reach me [here](mailto:wuco@mail.uc.edu) as collaborations are always welcome.
+You can find some of my previous works and ongoing projects on this site. If you are interested in my work or have questions, you may reach me [here](mailto:wuco@mail.uc.edu).
