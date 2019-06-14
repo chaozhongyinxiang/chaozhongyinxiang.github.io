@@ -1,6 +1,6 @@
 ---
 title: "ToppMiR: ranking microRNAs in biological context"
-excerpt: "A computational workbench to prioritize miRNAs provided disease context represented by messengerRNA targets.<br/><img src='/images/toppmir.png'>"
+excerpt: "A computational workbench to prioritize miRNAs provided disease context represented by messengerRNA targets.<br/><img src='/images/toppmir_net.png'>"
 collection: portfolio
 ---
 Identifying functionally significant microRNAs and their correspondingly most important messenger RNA targets in specific biological contexts is a critical task to improve our understanding of molecular mechanisms underlying organismal development, physiology and disease. We have developed [ToppMiR](https://academic.oup.com/nar/article/42/W1/W107/2437383), a web-based analytical workbench that allows miRs and mRNAs to be co-analyzed via biologically centered approaches in which gene function associated annotations are used to train a machine learning-based analysis engine.  
