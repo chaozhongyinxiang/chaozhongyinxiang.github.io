@@ -10,3 +10,9 @@ Molecular profiling has become essential for tumor risk stratification and treat
 ![workflow](https://chaozhongyinxiang.github.io/images/aiqc_data.png)
 <br/>
 <br/>
+A three-class classifier using Random Forest model was trained using the data. Besides the two classes of "True" and "Artifact", a variant could also be labeled as "Uncertain" to reflect the confidence of the classification for clinical assurnace. The best performing model was then evaluated and benchmarked using the test set.
+<br/>
+<br/>
+![workflow](https://chaozhongyinxiang.github.io/images/aiqc_class.png)
+<br/>
+<br/>
