@@ -8,3 +8,6 @@ Identifying functionally significant microRNAs and their correspondingly most im
 ![workflow](https://chaozhongyinxiang.github.io/images/toppmir_work.png)
 <br/>
 ToppMiR learns about biological contexts based on gene associated information from expression data or from a user-specified set of genes that relate to context-relevant knowledge or hypotheses. Within the biological framework established by the genes in the training set, its associated information content is then used to calculate a features association matrix composed of biological functions, protein interactions and other features. This scoring matrix is then used to jointly rank both the test/candidate miRs and mRNAs. ToppMir is [publicly available](https://toppmir.cchmc.org/).
+<br/>
+![workflow](https://chaozhongyinxiang.github.io/images/toppmir_rank.png)
+<br/>
