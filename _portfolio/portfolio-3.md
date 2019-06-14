@@ -4,16 +4,14 @@ excerpt: "A computational classifier to distinguish sequencing artifacts from *b
 collection: portfolio
 ---
 
-Molecular profiling has become essential for tumor risk stratification and treatment selections. However, cancer genome complexity and technical artifacts make identification of real variants a challenge. We present a machine learning-based method to distinguish artifacts from true single nucleotide variants (SNVs) detected by NGS from tumor specimens. We compiled a cohort of over 11,000 SNVs from 291 individual tumor samples of pediatric cancer patients. 
+Molecular profiling has become essential for tumor risk stratification and treatment selection. Currently, clinical laboratories rely on manual screening of the variant, which is costly, tedious, and not scalable. We developed a machine learning-based classifier using 11,278 clinically reviewed variants to automate somatic variant screening in cancer diagnostics.  
 <br/>
 <br/>
 ![workflow](https://chaozhongyinxiang.github.io/images/aiqc_data.png)
 <br/>
 <br/>
-A three-class classifier using Random Forest model was trained. Besides the two classes of "True" and "Artifact", a variant could also be labeled as "Uncertain" to reflect the confidence of the classification for clinical assurnace. An "Uncertain" variant would require further manual inspection to determine its validity. 
+The model learned characteristics separating true mutations from sequencing artifacts to automatically identify real single nucleotide variants from NGS. The optimized three-class model (real, artifacts, uncertain) demonstrated high accuracy and robustness. Implementation of this approach in clinical labs could improve the overall quality and efficiency. [Read more](https://www.biorxiv.org/content/10.1101/670687v1)
 <br/>
 <br/>
 ![workflow](https://chaozhongyinxiang.github.io/images/aiqc_class.png)
-<br/>
-<br/>
-The model was then evaluated and benchmarked using the test set. Over 96% of the SNVs received a definitive label while only 3.4% of the SNVs were labeled as "Uncertain". None of the TP SNVs were misclassified as artifacts or *vice versa*. Implementing the computational model in the clinical workflow has resulted in improved quality and efficiency. [Read more](https://www.biorxiv.org/content/10.1101/670687v1)
+<br/> 
