@@ -10,7 +10,7 @@ Clinical exome sequencing has become the preferred diagnostic platform for compl
 ![workflow](https://chaozhongyinxiang.github.io/images/phenoxome_workflow.png)
 <br/>
 <br/>
-Phenoxome first annotates and filter variants based on a set of features such as population allele frequency, predicted protein effects and [HGMD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429360/) annotations. It then compiles a personalized gene panel from the patient's phenotypes described using [HPO terms](https://hpo.jax.org/app/).
+Phenoxome first annotates and filters variants based on a set of features such as population allele frequency, predicted protein effects and [HGMD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5429360/) annotations. It then compiles a personalized gene panel from the patient's phenotypes described using [HPO terms](https://hpo.jax.org/app/).
 <br/>
 <br/>
 ![pgp](https://chaozhongyinxiang.github.io/images/pgp.png)
@@ -20,4 +20,6 @@ Variants are scored on both variant level and gene level, before a combined dele
 <br/>
 <br/>
 ![rank](https://chaozhongyinxiang.github.io/images/phenoxome_rank.png)
-
+<br/>
+<br/>
+We are in the process of improving the performance of Phenoxome using more training data and variant characteristics.
