@@ -19,4 +19,4 @@ You can find some of my previous works and ongoing projects on this site. If you
 
 <br/>
 
-![network](https://chaozhongyinxiang.github.io/images/network_small.png =200x)
+![network](https://chaozhongyinxiang.github.io/images/network_small.png)
