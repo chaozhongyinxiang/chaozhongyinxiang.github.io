@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 
+
 I have always wanted to be a theoretical physicist since I was a child, and I would not have believed I have become a computer scientist. However, staring at the those amazing stars in a summer night in awe remains one of my favorite things to do.
 
 I take huge pride in my hometown Beijing, where I was born and raised. In my spare time, I look for fun things to do in and around Philadelphia. I enjoy [various trails](https://www.alltrails.com/parks/us/pennsylvania/fairmount-park) in Philly, exercising and would like to compete in another triathlon event soon. I love classical music as much as I love *The Office* (both US and UK versions), and I firmly believe [Smetana](https://www.youtube.com/watch?v=ZWFwtMWFLdc) is one of the most underrated composers of his time.
