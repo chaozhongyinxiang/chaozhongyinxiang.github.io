@@ -17,4 +17,4 @@ I am interested in developing applications of machine learning in biomedical inf
 
 You can find some of my previous works and ongoing projects on this site. If you are interested in my work or have questions, you may reach me [here](mailto:wuco@mail.uc.edu).
 
-![classifier](https://chaozhongyinxiang.github.io/images/classifier.png)
+![feature](https://chaozhongyinxiang.github.io/images/correlation.png)
