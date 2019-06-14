@@ -10,7 +10,7 @@ Drug repositioning is a viable strategy both to replenish the drying out drug pi
 ![network](https://chaozhongyinxiang.github.io/images/drug_network.png)
 <br/>
 <br/>
-We then applied existing clustering algorithms to detect tightly connected modules and then assembled putative drug repositioning candidates from these modules. The predictions were then validated using published literature. The method complemented the current computational approaches for drug repositioning discovery. [Read more](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-7-S5-S6)
+We then applied existing [clustering algorithms](http://www.paccanarolab.org/cluster-one/) to detect tightly connected modules and then assembled putative drug repositioning candidates from these modules. The predictions were then validated using published literature. The method complemented the current computational approaches for drug repositioning discovery. [Read more](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-7-S5-S6)
 <br/>
 <br/>
 ![example](https://chaozhongyinxiang.github.io/images/drug_example.png)
