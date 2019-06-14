@@ -1,5 +1,5 @@
 ---
-title: "Phenoxome: ranking pathogenic variants given phenotypic context"
+title: "Phenoxome: ranking pathogenic variants provided phenotypic context"
 excerpt: "A comprehensive computational framework to prioritize genetic variants based upon the likelihood of the variant being pathogenic given the phenotype of the patient. <br/><img src='/images/phenoxome_workflow.png'>"
 collection: portfolio
 ---
