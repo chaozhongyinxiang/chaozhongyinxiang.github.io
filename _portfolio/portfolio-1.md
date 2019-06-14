@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Phenoxome: ranking pathogenic variants given phenotypic context"
+excerpt: "A comprehensive computational framework to prioritize genetic variants based upon the likelihood of the variant being pathogenic given the phenotype of the patient. <br/><img src='/images/phenoxome_workflow.png'>"
 collection: portfolio
 ---
 
