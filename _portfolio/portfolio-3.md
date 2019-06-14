@@ -1,12 +1,12 @@
 ---
 title: "Using machine learning to facilitate variant classification in pediatric cancers"
-excerpt: "A computational classifier to distinguish sequencing artifacts from *bona fide* variants from next-generation sequencing data in pediatric tumors <br/><img src='/images/pca.png'>"
+excerpt: "A computational classifier to distinguish sequencing artifacts from *bona fide* variants from next-generation sequencing data in pediatric tumors <br/><br/><img src='/images/pca.png'>"
 collection: portfolio
 ---
 
-Clinical exome sequencing has become the preferred diagnostic platform for complex pediatric disorders with suspected monogenic etiologies. Despite rapid advancements, the major challenge still resides in identifying the casual variants among the thousands of variants detected during CES testing, and thus establishing a molecular diagnosis. To improve the clinical exome diagnostic efficiency, we developed [Phenoxome](https://phenoxome.chop.edu/), a robust phenotype-driven model that adopts a network-based approach to facilitate automated variant prioritization. Phenoxome dissects the phenotypic manifestation of a patient in concert with their genomic profile to filter and then prioritize variants that are likely to affect the function of the gene (potentially pathogenic variants). 
+Molecular profiling has become essential for tumor risk stratification and treatment selections. However, cancer genome complexity and technical artifacts make identification of real variants a challenge. Clinical labs rely on manual screening, which is costly, subjective, and not scalable. We present a machine learning-based method to distinguish artifacts from true single nucleotide variants (SNVs) detected by NGS from tumor specimens. We compiled a cohort of over 11,000 SNVs from 291 individual tumor samples of pediatric cancer patients from 9 cancer types. The data was randomly split into three subsets that were mutually exclusive: training, validation and test set. 
 <br/>
 <br/>
-![workflow](https://chaozhongyinxiang.github.io/images/phenoxome_workflow.png)
+![workflow](https://chaozhongyinxiang.github.io/images/aiqc_data.png)
 <br/>
 <br/>
