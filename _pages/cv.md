@@ -34,7 +34,7 @@ redirect_from:
   
 ### Publicatoins
 
-Find a select list of my publications [here](https://chaozhongyinxiang.github.io/publications/).
+Find a list of my select publications [here](https://chaozhongyinxiang.github.io/publications/).
   
 ### Service and leadership
 
