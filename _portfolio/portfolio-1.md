@@ -16,7 +16,7 @@ Phenoxome first annotates and filters variants based on a set of features such a
 ![pgp](https://chaozhongyinxiang.github.io/images/pgp.png)
 <br/>
 <br/>
-Variants are scored on both variant level and gene level, before a combined deleteriousness score is achieved. We validated our approach using synthetic data and a clinical cohort of pediatric data. As a result, Phenoxome identified the causative variants within the top 10 candidates in more than 70% in the clinical cases. Phenoxome is publicly available [here](https://phenoxome.chop.edu/), and we are in the process of improving the performance of Phenoxome using more training data and variant characteristics.
+Variants are scored on both variant level and gene level, before a combined deleteriousness score is achieved. We validated our approach using synthetic data and a clinical cohort of pediatric data. As a result, Phenoxome identified the causative variants within the top 10 candidates in more than 70% in the clinical cases. Phenoxome is [publicly available](https://phenoxome.chop.edu/), and we are in the process of improving the performance of Phenoxome using more training data and variant characteristics.
 <br/>
 <br/>
 ![rank](https://chaozhongyinxiang.github.io/images/phenoxome_rank.png)
