@@ -16,4 +16,4 @@ A three-class classifier using Random Forest model was trained using the data. B
 ![workflow](https://chaozhongyinxiang.github.io/images/aiqc_class.png)
 <br/>
 <br/>
-The model was then evaluated and benchmarked using the test set. Over 96% of the SNVs received a definitive label while only 3.4% of the SNVs were labeled as "Uncertain". None of the TP SNVs were misclassified as sequencing artifacts or *vice versa*. Implementing the computational model in the clinical workflow has resulted in improved quality and efficiency. 
+The model was then evaluated and benchmarked using the test set. Over 96% of the SNVs received a definitive label while only 3.4% of the SNVs were labeled as "Uncertain". None of the TP SNVs were misclassified as sequencing artifacts or *vice versa*. Implementing the computational model in the clinical workflow has resulted in improved quality and efficiency. [Read more](https://www.biorxiv.org/content/10.1101/670687v1)
