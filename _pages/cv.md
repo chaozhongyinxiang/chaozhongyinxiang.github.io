@@ -27,7 +27,7 @@ redirect_from:
 
 ### Skills
 
-* Programming: Java, Python
+* Fluent in programming and scripting languages
 * Profound understanding in machine learning algorithms and genetics
 * Data curation and database management
 * Web application development
