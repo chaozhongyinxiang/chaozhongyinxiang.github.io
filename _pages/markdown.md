@@ -17,4 +17,4 @@ I take huge pride in my hometown [Beijing](https://www.lonelyplanet.com/china/be
 
 ![beijing](https://chaozhongyinxiang.github.io/images/beijing_night.png)
 
-I enjoy a variety of sports, but am a huge soccer fan at heart. My favorite teams include: [Beijing Guoan FC](http://www.fcguoan.com/en/), [Milan FC](https://www.acmilan.com/it) and [Italy International](https://www.figc.it/it/home/). 
+I enjoy a variety of sports, but am a huge soccer fan at heart. My favorite teams include: [Beijing Guoan FC](http://www.fcguoan.com/en/), [AC Milan](https://www.acmilan.com/it) and [Italy International](https://www.figc.it/it/home/). 
