@@ -13,7 +13,6 @@ redirect_from:
 
 * Ph.D in Computer Science, University of Cincinnati, USA
 * M.Sc. in Electronic Engineering, University of York, UK
-* B.S. in Electronic & Electrical Engineering, Beihang University, China
 
 ### Work and Research Experience
 
