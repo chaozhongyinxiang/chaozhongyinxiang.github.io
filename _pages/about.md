@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a computer scientist/bioinformatics scientist in the [Division of Genomic Diagnostics](https://www.chop.edu/centers-programs/division-genomic-diagnostics) at The Children's Hospital of Philadelphia, where I develop machine learning and data mining approaches to facilitate clinical genetic testing and diagnostics.
+I am a computer scientist/bioinformatics scientist in the [Division of Genomic Diagnostics](https://www.chop.edu/centers-programs/division-genomic-diagnostics) at The Children's Hospital of Philadelphia, where I develop machine learning and data mining approaches to facilitate clinical genetic testings and diagnostics.
 
 I received my Ph.D from the [Computer Science Department of University of Cincinnati](https://ceas.uc.edu/academics/departments/electrical-engineering-computer-science.html), together with the [Biomedical Informatics Department of Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org/research/divisions/b/bmi). I also hold a MSc from the [Department of Electronic Enegineering at University of York](https://www.york.ac.uk/electronic-engineering/). 
 
