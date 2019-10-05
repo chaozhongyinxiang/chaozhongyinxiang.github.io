@@ -16,7 +16,7 @@ redirect_from:
 
 ### Work and Research Experience
 
-* 2014 ~ now: Senior Bioinformatics Scientist
+* 2014 ~ now: Senior/Principal Bioinformatics Scientist
   * Division of Genomic Diagnostics
   * Children's Hospital of Philadelphia
 
