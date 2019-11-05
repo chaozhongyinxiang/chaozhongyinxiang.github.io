@@ -7,9 +7,9 @@ author_profile: true
 
 ### Clinical Genomic Diagnostics
 
-- **Wu C**, Devkota B, *et al.*, "Rapid and accurate interpretation of clinical exomes using Phenoxome: a computational phenotype-driven approach", *European Journal of Human Genetics* 27(4), 612, 2019. [Read more](https://www.nature.com/articles/s41431-018-0328-7)
+- **Wu C**, Devkota B, *et al.*, "Rapid and accurate interpretation of clinical exomes using Phenoxome: a computational phenotype-driven approach", *European Journal of Human Genetics*, 2019. [Read more](https://www.nature.com/articles/s41431-018-0328-7)
 
-- **Wu C**, Zhao X, *et al.*, "Using machine learning to identify true somatic variants from next-generation sequencing", *accepted at Clinical Chemistry*. [Read more](https://www.biorxiv.org/content/10.1101/670687v1.full)
+- **Wu C**, Zhao X, *et al.*, "Using machine learning to identify true somatic variants from next-generation sequencing", *Clinical Chemistry*, 2019. [Read more](http://clinchem.aaccjnls.org/content/early/2019/10/23/clinchem.2019.308213)
 
 - Evans P, **Wu C**, *et al.*, "Genetic variant pathogenicity prediction trained using disease specific clinical sequencing datasets", *Genome Research*, 2019. [Read more](https://genome.cshlp.org/content/early/2019/06/21/gr.240994.118)
 
