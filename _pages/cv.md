@@ -16,7 +16,11 @@ redirect_from:
 
 ### Work and Research Experience
 
-* 2014 ~ now: Senior/Principal Bioinformatics Scientist
+* 2020 ~ now: Data Scientist Supervisor
+  * Department of Biomedical and Health Informatics
+  * Children's Hospital of Philadelphia
+
+* 2014 ~ 2020: Senior/Principal Bioinformatics Scientist
   * Division of Genomic Diagnostics
   * Children's Hospital of Philadelphia
 
