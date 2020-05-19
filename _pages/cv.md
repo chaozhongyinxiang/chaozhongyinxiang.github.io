@@ -39,7 +39,7 @@ redirect_from:
 
 Find a list of my select publications [here](https://chaozhongyinxiang.github.io/publications/).
   
-### Service and leadership
+### Services and Awards
 
 * CHOP Discretionary Award
 * Vice president at ISCB, regional student group
