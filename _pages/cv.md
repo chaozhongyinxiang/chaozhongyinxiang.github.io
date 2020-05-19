@@ -31,9 +31,9 @@ redirect_from:
 ### Skills
 
 * Fluent in programming and scripting languages
-* Profound understanding in machine learning algorithms and genetics
-* Data curation and database management
-* Web application development
+* Profound understanding in machine learning and biomedical fields including genetics/genomics
+* Big Data manipulation
+* Demonstrated leaderships such as team communication and mentorship.
   
 ### Publicatoins
 
