@@ -16,11 +16,15 @@ redirect_from:
 
 ### Work and Research Experience
 
-* 2020 ~ now: Data Scientist Supervisor
+* 2020 Oct ~ now: Sr. Genomic Data Scientist
+  * Data Science Corp
+  * Spark Therapeutics
+  
+* 2020 Mar ~ 2020 Oct: Data Scientist Supervisor
   * Department of Biomedical and Health Informatics
   * Children's Hospital of Philadelphia
 
-* 2014 ~ 2020: Senior/Principal Bioinformatics Scientist
+* 2014 ~ 2020 Mar: Senior/Principal Bioinformatics Scientist
   * Division of Genomic Diagnostics
   * Children's Hospital of Philadelphia
 
