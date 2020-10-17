@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a senior genomic data scientist at [Spark Therapeutics](https://sparktx.com/), where I utilize bioinformatics and machine learning methods to aid the development of innovative gene therapies.
+I am a senior genomic data scientist at [Spark Therapeutics](https://sparktx.com/), a Roche subsidiary, where I utilize bioinformatics and machine learning methods to aid the development of innovative gene therapies.
 
 I received my Ph.D from the [Computer Science Department of University of Cincinnati](https://ceas.uc.edu/academics/departments/electrical-engineering-computer-science.html), together with the [Biomedical Informatics Department of Cincinnati Children's Hospital Medical Center](https://www.cincinnatichildrens.org/research/divisions/b/bmi). I also hold a MSc from the [Department of Electronic Enegineering at University of York](https://www.york.ac.uk/electronic-engineering/). 
 
